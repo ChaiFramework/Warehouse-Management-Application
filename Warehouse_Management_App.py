@@ -327,13 +327,3 @@ class Operations(Records):
 a = Operations()
 a.main()
 
-
-"""
-Shortcomings:
-
-Given more experience I would like to implement the file management functionality a bit better, I will admit in my program 
-the editing of the txt files is very crude, working but crude nonetheless.
-
-Futurescope: I believe this assignment can become so much more, we could use sql to store our data (customers, products, orders etc.)
-we can also use a GUI to make it all more user friendly.
-"""
